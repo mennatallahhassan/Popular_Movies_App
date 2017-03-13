@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="details_activity">MovieDetail</string>
+    <string name="pop_movies">Pop Movies</string>
+    <string name="popular">Popular</string>
+    <string name="topRated">Top Rated</string>
+
+    <string name="fav">Favorite Me!</string>
+    <string name="unfav">Unfavorite Me!</string>
+    <string name="favorite_menu">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
